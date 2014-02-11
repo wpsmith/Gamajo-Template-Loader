@@ -54,7 +54,7 @@ class Meal_Planner_Template_Loader extends Gamajo_Template_Loader {
 	protected $plugin_directory = MEAL_PLANNER_PLUGIN_DIR;
 	
 	/**
-	 * Reference to the template directory path of this plugin.
+	 * Optional reference to the template directory path of this plugin.
 	 *
 	 * Can either be a defined constant, or a relative reference from where the subclass lives.
 	 *
